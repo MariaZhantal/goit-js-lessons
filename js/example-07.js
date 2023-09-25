@@ -22,7 +22,7 @@ What will be the result of the expressions?
 
 // console.log(5 > 4); // true
 
-// console.log(10 >= '7'); // true
+console.log(10 >= '7'); // true
 
 // console.log('2' > '12'); // true // //compares the strings character by character from left to right
 
